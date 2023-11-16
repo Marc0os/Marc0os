@@ -11,7 +11,7 @@ I'm currently delving into the Swift programming language to develop a solid set
 <div align="leading">  
   <a href="https://github.com/Marc0os/">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marc0os&show_icons=true&theme=dark">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&layout=compact&username=Marc0os">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&layout=compact&username=Marc0os/">
   </a>
 </div>
 
