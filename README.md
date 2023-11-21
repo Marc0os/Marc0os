@@ -11,15 +11,14 @@ I'm currently delving into the Swift programming language to develop a solid set
 <div align="leading">  
   <a href="https://github.com/Marc0os/">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Marc0os&show_icons=true&theme=dark">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&layout=compact&username=Marc0os">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=light&layout=compact&username=Marc0os">
   </a>
 </div>
 
-## Languages 👩🏻‍💻
+## Languages 💻
 
 <div style="display: inline_block"><br>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">  
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> 
+  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"> 
 </div>
 
 ## Contacts 🗣️
