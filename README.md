@@ -29,5 +29,5 @@ I'm currently delving into the Swift programming language to develop a solid set
 </div>
 
 <div align="leading">
-  <img src="https://komarev.com/ghpvc/?username=anneauzier&color=2a2a2a&style=flat&label=views" />
+  <img src="https://komarev.com/ghpvc/?username=Marc0os&color=2a2a2a&style=flat&label=views" />
 </div>
