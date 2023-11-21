@@ -27,7 +27,3 @@ I'm currently delving into the Swift programming language to develop a solid set
 <div> 
   <a href="https://www.linkedin.com/in/marcos-andre-araujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
-<div align="leading">
-  <img src="https://komarev.com/ghpvc/?username=Marc0os&color=2a2a2a&style=flat&label=views" />
-</div>
