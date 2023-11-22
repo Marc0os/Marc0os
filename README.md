@@ -2,8 +2,6 @@
 
 Hello, world! I'm Marcos👨‍💻,
 
-An eternal learner who loves to experiment and explore new subjects🤩.
-
 I'm currently delving into the Swift programming language to develop a solid set of skills in this sector🤓.
 
 ##
